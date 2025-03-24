@@ -21,6 +21,7 @@ Note: This link only works when the GCP VM is running. Contact the project maint
 ## Notes
 
 This repo does not include the frontend. The backend only runs when the GCP VM is active.
+Frontend can be found here : https://github.com/Sherv01/GenAI-Genesis?tab=readme-ov-file
 
 ## Credits
 
