@@ -26,7 +26,6 @@ This repo does not include the frontend. The backend only runs when the GCP VM i
 
 TripoSR is an open-source model developed by [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR). We use it directly without modification.
 
-##Citations
 @article{TripoSR2024,
   title={TripoSR: Fast 3D Object Reconstruction from a Single Image},
   author={Tochilkin, Dmitry and Pankratz, David and Liu, Zexiang and Huang, Zixuan and and Letts, Adam and Li, Yangguang and Liang, Ding and Laforte, Christian and Jampani, Varun and Cao, Yan-Pei},
